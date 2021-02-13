@@ -26,5 +26,54 @@ body{
     margin-top: 10px;
 }
 .contacts{
-    
+    width: 90%;
+    border:2px solid silver;
 }
+.about{
+    width: 90%;
+    padding: 1%;
+    background: silver;
+    border: 2px solid grey;
+    margin-top: 20px;
+    border-radius: 15px;
+    padding: 15px;
+}
+.profile{
+    width: 90%;
+    padding: 1%;
+    background: silver;
+    border: 2px solid grey;
+    margin-top: 20px;
+    border-radius: 15px;
+    padding: 15px;
+    display: flex;
+}
+.profile form{
+    padding: 15px;
+}
+
+
+@media screen and (min-width: 800px) {
+    .profile{
+        flex-direction: row;
+    }
+    .profile img{
+        width: 40%;
+        max-width: 300px;
+    }
+    .profile form{
+        width:50%;
+    }
+  }
+
+  @media screen and (max-width: 799px) {
+    .profile{
+        flex-direction: column;
+    }
+    .profile img{
+        width: 100%;
+    }
+    .profile form{
+        width: 100%;
+    }
+  }
