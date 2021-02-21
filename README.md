@@ -1,1 +1,1 @@
-Глеб Владислав, КВ83, Лабораторна робота 1 ВЕБ, Google Drive: https://drive.google.com/file/d/11NQieesr8XcWN7n3WxWZyqe7IvxWcK0-/view?usp=sharing
+Глеб Владислав, КВ83, Лабораторна робота 1 ВЕБ, Google Drive: https://drive.google.com/file/d/15DMCGfGsvzJptjiBtv5w1c-ePtSRBUlq/view?usp=sharing
